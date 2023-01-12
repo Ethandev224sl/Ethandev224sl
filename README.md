@@ -11,14 +11,16 @@ My key technical skills (not limited to)
 - Smart Contract in Solidity / Rust / Golang / Python
 - CryptoCurrency
 - DeFi / DApp
-- MongoDB, MySQL, PostgreSQL
+- React(Next.js, Redux) / Vue.js(Nuxt.js)
+- PHP / Node.js / Java(Spring BOOT) / ASP.NET
+- MongoDB, MySQL, PostgreSQL, SQLServer
 - GitHub, GitLab, Bitbucket
 
 > Programming languages.
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e0982c.svg?logo=solidity5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-e0982c.svg?logo=solidity5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e0982c.svg?logo=solidity5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AGolang"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e0982c.svg?logo=solidity5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
