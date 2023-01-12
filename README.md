@@ -33,9 +33,9 @@ My key technical skills (not limited to)
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232e.svg?logo=next.js&logoColor=%white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=web3.js&logoColor=white"></a>
-    <a href="#"><img alt="Truffle" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=web3.js&logoColor=white"></a>
-    <a href="#"><img alt="HardHat" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=web3.js&logoColor=white"></a>
-    <a href="#"><img alt="Alchemy" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=web3.js&logoColor=white"></a>
+    <a href="#"><img alt="Truffle" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=Truffle&logoColor=white"></a>
+    <a href="#"><img alt="Hardhat" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=Hardhat&logoColor=white"></a>
+    <a href="#"><img alt="Alchemy" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=Alchemy&logoColor=white"></a>
 </p>
 
 > Databases and cloud hosting.
