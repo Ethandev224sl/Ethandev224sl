@@ -26,6 +26,7 @@ My key technical skills (not limited to)
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+    </p>
 > Frameworks, Libraries and Providers.
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%white"></a>
@@ -33,9 +34,9 @@ My key technical skills (not limited to)
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232e.svg?logo=next.js&logoColor=%white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=web3.js&logoColor=white"></a>
-    <a href="#"><img alt="Truffle" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=Truffle&logoColor=white"></a>
-    <a href="#"><img alt="Hardhat" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=Hardhat&logoColor=white"></a>
-    <a href="#"><img alt="Alchemy" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=Alchemy&logoColor=white"></a>
+    <a href="#"><img alt="Truffle" src="https://img.shields.io/badge/Truffle-43853D.svg?logo=Truffle&logoColor=white"></a>
+    <a href="#"><img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-43853D.svg?logo=Hardhat&logoColor=white"></a>
+    <a href="#"><img alt="Alchemy" src="https://img.shields.io/badge/Alchemy-43853D.svg?logo=Alchemy&logoColor=white"></a>
 </p>
 
 > Databases and cloud hosting.
