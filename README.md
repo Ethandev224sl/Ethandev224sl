@@ -1,20 +1,4 @@
-Professional FullStack Blockchain Developer (Solidity / Rust/ Golang / Ethereum / Solana / Polygon)
 
-I have expertise in Ethereum, Solana and Polygon. I can find a path to getting your project done quickly when you want to use those skills in your project. But I’m not limited to those skills. I’m a fast learner and can be adapted quickly to any skills needed in your project. I can work alone or on your team as an individual contributor.
-
-Contact
-- email: ethandev24sl@proton.me
-- skype: live:.cid.244ad5ce8950c493
-
-My key technical skills (not limited to)
-- Bitcoin / Ethereum / Solana / Polygon
-- Smart Contract in Solidity / Rust / Golang / Python
-- CryptoCurrency
-- DeFi / DApp
-- React(Next.js, Redux) / Vue.js(Nuxt.js)
-- PHP / Node.js / Java(Spring BOOT) / ASP.NET
-- MongoDB, MySQL, PostgreSQL, SQLServer
-- GitHub, GitLab, Bitbucket
 
 > Programming languages.
 <p>
