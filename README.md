@@ -1,51 +1,189 @@
-
-
-> Programming languages.
+<p align="center">
+  <a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Blockchain%20developer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+</p>
+<p align="center">
+  <img align="center" src="./pics/banner.png" style = "width: -webkit-fill-available;"/>
+</p>
+<h1 align="center">
+</h1>
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e0982c.svg?logo=solidity5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-e0982c.svg?logo=solidity5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AGolang"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e0982c.svg?logo=solidity5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
-    </p>
-> Frameworks, Libraries and Providers.
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%white"></a>
-    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-1572B6.svg?logo=redux&logoColor=%white"></a>
-    <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232e.svg?logo=next.js&logoColor=%white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=web3.js&logoColor=white"></a>
-    <a href="#"><img alt="Truffle" src="https://img.shields.io/badge/Truffle-43853D.svg?logo=Truffle&logoColor=white"></a>
-    <a href="#"><img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-43853D.svg?logo=Hardhat&logoColor=white"></a>
-    <a href="#"><img alt="Alchemy" src="https://img.shields.io/badge/Alchemy-43853D.svg?logo=Alchemy&logoColor=white"></a>
+&nbsp;Senior web2 & web3 engineer with over 3+ years of experience in web3 world and for 7+ years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from web2 stacks to combination of web2 & web3 stacks to improve web3 system performance which is the focus and the future of our life, so for now implemented <b>DApps</b>, <b>DeFi</b>, <b>NFT Marketplaces</b>, <b>NFT Mint Websites</b>, <b>Token Launchpads</b>. Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
 
-> Databases and cloud hosting.
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-404d59.svg?logo=netlify&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-0078d7.svg?logo=aws&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Agraphql"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-03599C.svg?logo=graphql&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-20232e.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Algolia" src ="https://img.shields.io/badge/Algolia-7952B3.svg?logo=algolia&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-</p>
+## Experienced Blockchain Networks
 
-> Software and tools.
-<p>
-    <a href="#"><img alt="PhotoShop" src="https://img.shields.io/badge/PhotoShop-C21325.svg?logo=photoShop&logoColor=white"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-1572B6.svg?logo=figma&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-4ea94b.svg?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-0078d7.svg?logo=webpack&logoColor=white"></a>
-    <a href="#"><img alt="Composer" src="https://img.shields.io/badge/Composer-316192.svg?logo=composer&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/ethereum.png" width="48" height="48" alt="Ethereum" />
+      </a>
+      <br>Ethereum
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/binance.png" width="48" height="48" alt="Binance" />
+      </a>
+      <br>Binance
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/avalanche.svg" width="48" height="48" alt="Avalanche" />
+      </a>
+      <br>Avalanche
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/polygon.png" width="48" height="48" alt="Polygon" />
+      </a>
+      <br>Polygon
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/cronos.svg" width="48" height="48" alt="Cronos" />
+      </a>
+      <br>Cronos
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/Lukso.png" width="48" height="48" alt="Lukso" />
+      </a>
+      <br>Lukso
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/solana.png" width="48" height="48" alt="Solana" />
+      </a>
+      <br>Solana
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/sui.svg" width="48" height="48" alt="Sui" />
+      </a>
+      <br>Sui
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./pics/aptos.webp" width="48" height="48" alt="Aptos" />
+      </a>
+      <br>Aptos
+    </td>
+  </tr>
+</table>
+  
+## Tools & languages
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" width="48" height="48" alt="Solidity" />
+      </a>
+      <br>Solidity
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/rust.png" width="72" height="48" alt="Rust" />
+      </a>
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="48" height="48" alt="NodeJs" />
+      </a>
+      <br>NodeJs
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./pics/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="48" height="48" alt="Vue" />
+      </a>
+      <br>Vue
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./pics/tailwindcss.svg" width="48" height="48" alt="TailwindCSS" />
+      </a>
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./pics/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/mongodb.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./pics/aws-ampliify.svg" width="48" height="48" alt="AWS_Amplify" />
+      </a>
+      <br>AWS_Amplify
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+  </tr>
+</table>
